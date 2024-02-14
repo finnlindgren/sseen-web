@@ -12,6 +12,8 @@ website:
         text: Home
       - href: aims.qmd
         text: Aims
+      - href: partners.qmd
+        text: Partners
       - about.qmd
 
 format:
