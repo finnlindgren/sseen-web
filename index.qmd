@@ -1,5 +1,5 @@
 ---
-title: "SSEEN"
+title: "SEESN (Scottish Environmental and Ecological Statistics Network"
 ---
 
 This is a Quarto website.
