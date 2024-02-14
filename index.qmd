@@ -1,11 +1,15 @@
 ---
-title: "SEESN (Scottish Environmental and Ecological Statistics Network"
+title: "Scottish Statistical Environmental and Ecological Network (SSEEN)"
 ---
 
-This is a Quarto website.
+The Universities of Edinburgh, Glasgow and St Andrews have substantial
+complementary expertise across environmental and ecological statistics, both within
+Statistics groups and throughout other academic disciplines across each campus.
+Additionally, each group has strong relationships with a number of external (to the
+HEI) partners across a variety of application domains. All groups have a strong
+focus and interest in developing methodology leading to longer-term impact across
+policy, business and industry.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+The Scottish Statistical Environmental and Ecological informal network has been
+formed to bring together these groups to share expertise, form new collaborations,
+and link with external partners across industry and policy makers.

@@ -2,8 +2,7 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+The Scottish Statistical Environmental and Ecological informal network has been
+formed to bring together several Scottish academic statistics groups to share
+expertise, form new collaborations, and link with external partners across
+industry and policy makers.
