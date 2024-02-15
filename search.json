@@ -1,30 +1,65 @@
 [
   {
-    "objectID": "aims.html",
-    "href": "aims.html",
-    "title": "Aims",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "Increased visibility of the breadth, depth and diversity of environmental and ecological academic statistics in Scotland\nIncreased engagement, impact and support for policy decisions (joint co-creation between statistical researchers and policy-makers)\nShared training for PhD students and delivery of high quality specialised training courses\nFormal links for research collaboration and training between academic and non-academic institutions\nAn active research network in statistical methodology for environmental and ecological statistics across sectors"
+    "text": "(setup as a website blog for network specific events?)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Scottish Statistical Environmental and Ecological Network (SSEEN)",
+    "objectID": "events.html#network-events",
+    "href": "events.html#network-events",
+    "title": "Events",
     "section": "",
-    "text": "The Universities of Edinburgh, Glasgow and St Andrews have substantial complementary expertise across environmental and ecological statistics, both within Statistics groups and throughout other academic disciplines across each campus. Additionally, each group has strong relationships with a number of external (to the HEI) partners across a variety of application domains. All groups have a strong focus and interest in developing methodology leading to longer-term impact across policy, business and industry.\nThe Scottish Statistical Environmental and Ecological informal network has been formed to bring together these groups to share expertise, form new collaborations, and link with external partners across industry and policy makers."
+    "text": "(setup as a website blog for network specific events?)"
+  },
+  {
+    "objectID": "events.html#general-statistics-seminars",
+    "href": "events.html#general-statistics-seminars",
+    "title": "Events",
+    "section": "General statistics seminars",
+    "text": "General statistics seminars\n\nStatistics seminars, The University of Edinburgh"
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Members and partners",
+    "section": "",
+    "text": "Statistics group, Data & Decisions, School of Mathematics, The University of Edinburgh (contact: Finn Lindgren)\n?, University of Glasgow\n?, University of St Andrews\nBiomathematics and Statistics Scotland (BioSS)"
+  },
+  {
+    "objectID": "members.html#network-member-institutions",
+    "href": "members.html#network-member-institutions",
+    "title": "Members and partners",
+    "section": "",
+    "text": "Statistics group, Data & Decisions, School of Mathematics, The University of Edinburgh (contact: Finn Lindgren)\n?, University of Glasgow\n?, University of St Andrews\nBiomathematics and Statistics Scotland (BioSS)"
+  },
+  {
+    "objectID": "members.html#network-partners",
+    "href": "members.html#network-partners",
+    "title": "Members and partners",
+    "section": "Network partners",
+    "text": "Network partners\n\n…\n…"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "The Scottish Statistical Environmental and Ecological informal network has been formed to bring together several Scottish academic statistics groups to share expertise, form new collaborations, and link with external partners across industry and policy makers."
+    "text": "The Scottish Statistical Environmental and Ecological informal network has been formed to bring together environmental and ecological statisticians at the Universities of Edinburgh, Glasgow and St Andrews, and Biomathematics and Statistics Scotland (BioSS) to share expertise, form new collaborations, and link with external partners across industry and policy makers."
   },
   {
-    "objectID": "partners.html",
-    "href": "partners.html",
-    "title": "Partners",
+    "objectID": "about.html#aims",
+    "href": "about.html#aims",
+    "title": "About",
+    "section": "Aims",
+    "text": "Aims\n\nIncreased visibility of the breadth, depth and diversity of environmental and ecological academic statistics in Scotland\nIncreased engagement, impact and support for policy decisions (joint co-creation between statistical researchers and policy-makers)\nShared training for PhD students and delivery of high quality specialised training courses\nFormal links for research collaboration and training between academic and non-academic institutions\nAn active research network in statistical methodology for environmental and ecological statistics across sectors"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Scottish Statistical Environmental and Ecological Network (SSEEN)",
     "section": "",
-    "text": "Statistics group, Data & Decisions, School of Mathematics, The University of Edinburgh (contact: Finn Lindgren)\n?, University of Glasgow\n?, University of St Andrews\n…"
+    "text": "The Scottish Statistical Environmental and Ecological informal network has been formed to bring together environmental and ecological statisticians at the Universities of Edinburgh, Glasgow and St Andrews, and Biomathematics and Statistics Scotland (BioSS) to share expertise, form new collaborations, and link with external partners across industry and policy makers."
   }
 ]
