@@ -10,15 +10,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: aims.qmd
-        text: Aims
-      - href: partners.qmd
-        text: Partners
+      - href: members.qmd
+        text: Members
+      - href: events.qmd
+        text: Events
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: spacelab
     css: styles.css
     toc: true
 

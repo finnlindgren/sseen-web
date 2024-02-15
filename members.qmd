@@ -1,8 +1,15 @@
 ---
-title: "Partners"
+title: "Members and partners"
 ---
+
+## Network Member institutions
 
 - Statistics group, Data \& Decisions, School of Mathematics, The University of Edinburgh (contact: [Finn Lindgren](mailto::Finn.Lindgren@ed.ac.uk))
 - ?, University of Glasgow
 - ?, University of St Andrews
-- ...
+- Biomathematics and Statistics Scotland (BioSS)
+
+## Network partners
+
+ - ...
+ - ...

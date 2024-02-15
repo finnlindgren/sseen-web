@@ -1,0 +1,11 @@
+---
+title: "Events"
+---
+
+## Network events
+
+(setup as a website blog for network specific events?)
+
+## General statistics seminars
+
+- [Statistics seminars, The University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics/research/data-decisions/statistics/news-and-events/seminars)

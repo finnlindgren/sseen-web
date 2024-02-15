@@ -2,14 +2,8 @@
 title: "Scottish Statistical Environmental and Ecological Network (SSEEN)"
 ---
 
-The Universities of Edinburgh, Glasgow and St Andrews have substantial
-complementary expertise across environmental and ecological statistics, both within
-Statistics groups and throughout other academic disciplines across each campus.
-Additionally, each group has strong relationships with a number of external (to the
-HEI) partners across a variety of application domains. All groups have a strong
-focus and interest in developing methodology leading to longer-term impact across
-policy, business and industry.
-
 The Scottish Statistical Environmental and Ecological informal network has been
-formed to bring together these groups to share expertise, form new collaborations,
+formed to bring together environmental and ecological statisticians at the
+Universities of Edinburgh, Glasgow and St Andrews, and Biomathematics and
+Statistics Scotland (BioSS) to share expertise, form new collaborations,
 and link with external partners across industry and policy makers.
